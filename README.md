@@ -18,21 +18,11 @@
 
 ## 💼 Featured Projects
 
-### 🔸 [Flight Delay Prediction](https://github.com/Santhakumarramesh)
-> Built ML models (Logistic Regression, XGBoost, Neural Networks) to forecast U.S. flight delays.  
-> 📌 Python • scikit-learn • XGBoost • pandas • Model Evaluation
-
-### 🔸 [5G Smart Surveillance Drone](https://github.com/Santhakumarramesh)
-> Real-time crowd detection & tracking using **YOLOv8**, **WebRTC**, and **optical flow** algorithms.  
-> 📌 Python • OpenCV • WebRTC • UAV Systems
-
-### 🔸 [Autonomous Crop Monitoring System](https://github.com/Santhakumarramesh)
-> GPS-guided UAV with AI-based plant health analysis and early warning systems.  
-> 📌 Drone Telemetry • Image Processing • AI Pipeline
-
-### 🔸 [Emergency UAV Rescue System](https://github.com/Santhakumarramesh)
-> UAV-based emergency response triggered by real-time alerts via Telegram API.  
-> 📌 GPS • Raspberry Pi • UAV Navigation • Messaging Integration
+### 🏥 [Hospital Visits & Revenue Analysis](https://github.com/Santhakumarramesh/Hospital-Visit-Analysis)
+- Normalized hospital records using SQLite and pandas  
+- Ran SQL queries to extract insights (e.g., top doctors, revenue trends)  
+- Visualized monthly patterns and diagnosis cost using matplotlib  
+- Focused on turning messy data into actionable business insights
 
 ---
 
@@ -68,4 +58,3 @@
 ---
 
 > “Turning data into insights, and insights into action.”
-
